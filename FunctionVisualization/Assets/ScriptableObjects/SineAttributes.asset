@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c655e985224ed40a995b28120d9e8729, type: 3}
+  m_Name: SineAttributes
+  m_EditorClassIdentifier: 
+  linewidth: 0.2
+  amplitude: 2
+  wavelength: 3
+  waveSpeed: 4
+  xStart: -10
+  yStart: 3
+  travelling: 1
+  material: {fileID: 2100000, guid: 9fc56f507723f4418a88e019c87cf1f0, type: 2}
